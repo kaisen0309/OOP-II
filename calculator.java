@@ -67,7 +67,7 @@ class jframe extends JFrame {
     }
 }
 
-public class test2 {
+public class calculator {
     public static void main(String[] args) {
         jframe fi = new jframe();
     }
